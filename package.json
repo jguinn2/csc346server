@@ -1,0 +1,23 @@
+{
+  "name": "csc346server",
+  "version": "0.1.0",
+  "description": "Demo of installing express web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jguinn2/csc346server.git"
+  },
+  "keywords": [
+    "csc346",
+    "demo"
+  ],
+  "author": "Jacob Guinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jguinn2/csc346server/issues"
+  },
+  "homepage": "https://github.com/jguinn2/csc346server#readme"
+}
